@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\net hesaplamma (combo)\net hesaplamma (combo)\bin\Debug\net hesaplamma (combo).exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\net hesaplamma (combo)\net hesaplamma (combo)\bin\Debug\net hesaplamma (combo).exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\net hesaplamma (combo)\net hesaplamma (combo)\bin\Debug\net hesaplamma (combo).pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\net hesaplamma (combo)\net hesaplamma (combo)\obj\Debug\net hesaplamma (combo).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\net hesaplamma (combo)\net hesaplamma (combo)\obj\Debug\net hesaplamma (combo).csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\net hesaplamma (combo)\net hesaplamma (combo)\obj\Debug\net_hesaplamma__combo_.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\net hesaplamma (combo)\net hesaplamma (combo)\obj\Debug\net_hesaplamma__combo_.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\net hesaplamma (combo)\net hesaplamma (combo)\obj\Debug\net hesaplamma (combo).csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\net hesaplamma (combo)\net hesaplamma (combo)\obj\Debug\net hesaplamma (combo).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\net hesaplamma (combo)\net hesaplamma (combo)\obj\Debug\net hesaplamma (combo).exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\net hesaplamma (combo)\net hesaplamma (combo)\obj\Debug\net hesaplamma (combo).pdb
